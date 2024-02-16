@@ -1,0 +1,6 @@
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb

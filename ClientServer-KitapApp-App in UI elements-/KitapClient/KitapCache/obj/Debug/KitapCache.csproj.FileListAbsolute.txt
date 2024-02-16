@@ -1,0 +1,9 @@
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\bin\Debug\KitapCache.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\bin\Debug\KitapCache.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\bin\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\bin\Debug\KitapClientMananger.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\obj\Debug\KitapCache.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\obj\Debug\KitapCache.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\obj\Debug\KitapCache.csproj.CopyComplete
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\obj\Debug\KitapCache.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapCache\obj\Debug\KitapCache.pdb

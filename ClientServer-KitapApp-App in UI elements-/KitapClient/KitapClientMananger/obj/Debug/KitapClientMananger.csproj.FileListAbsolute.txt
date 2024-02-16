@@ -1,0 +1,6 @@
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb

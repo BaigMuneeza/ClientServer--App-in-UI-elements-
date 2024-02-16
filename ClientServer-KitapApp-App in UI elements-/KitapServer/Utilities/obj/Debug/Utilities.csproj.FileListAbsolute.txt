@@ -1,0 +1,9 @@
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\bin\Debug\Utilities.dll
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\bin\Debug\Utilities.pdb
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\bin\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\bin\Debug\KitapRepositories.pdb
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\obj\Debug\Utilities.dll
+C:\Users\MuBaig\source\repos\KitapServer\Utilities\obj\Debug\Utilities.pdb

@@ -1,0 +1,11 @@
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\KitapFileManager.dll
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\KitapFileManager.pdb
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\KitapRepositories.pdb
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\obj\Debug\KitapFileManager.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\obj\Debug\KitapFileManager.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\obj\Debug\KitapFileManager.csproj.CopyComplete
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\obj\Debug\KitapFileManager.dll
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\obj\Debug\KitapFileManager.pdb
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\Utilities.dll
+C:\Users\MuBaig\source\repos\KitapServer\KitapFileManager\bin\Debug\Utilities.pdb
